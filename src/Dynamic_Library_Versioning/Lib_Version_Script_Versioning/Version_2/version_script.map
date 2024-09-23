@@ -1,0 +1,16 @@
+LIBSHAREDLIB_1.0.0 {
+    global:
+        lib_file_func_1;
+        lib_file_func_2;
+    
+    local:
+        *;
+};
+
+LIBSHAREDLIB_2.0.0 {
+    global:
+        lib_file_func_1;
+    
+    local:
+        *;
+};

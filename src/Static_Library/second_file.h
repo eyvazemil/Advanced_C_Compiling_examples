@@ -1,0 +1,1 @@
+int second_file_func(int num);

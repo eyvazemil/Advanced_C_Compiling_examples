@@ -1,0 +1,8 @@
+#ifndef PREPROCESSOR_EXPANSION_H
+#define PREPROCESSOR_EXPANSION_H
+
+#define MACRO_TEST 5
+
+int add(int num);
+
+#endif // PREPROCESSOR_EXPANSION_H
